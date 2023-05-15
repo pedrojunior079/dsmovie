@@ -11,6 +11,8 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Layout mobile
 ![Mobile 01](https://github.com/pedrojunior079/assets-imgs/blob/main/mobile/DSMovieMobile01.PNG) ![Mobile 02](https://github.com/pedrojunior079/assets-imgs/blob/main/mobile/DSMovieMobile02.PNG)
 
+
+
 ## Layout web
 ![Web 01](https://github.com/pedrojunior079/assets-imgs/blob/main/web/DSMovieWeb01.png)
 
